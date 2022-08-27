@@ -9,7 +9,7 @@ const workoutSchema = new Schema(
       required: true,
     },
     reps: {
-      type: Number,
+      type: Number, 
       required: true, 
     },
     load: {
